@@ -29,5 +29,12 @@ ajudando estudantes nos seus planejamentos da sua vida acadêmica.
      * Temporizador
      * To-do list
   * Calculadora de notas
+     * MC (Média de conclusão)
+     * IRA (Índice de Rendimento Acadêmico)
+     * IECH (Índice de Eficiência em Carga Horária)
+     * IEPL (Índice de Eficiência em Períodos Letivos)
+     * IEA (Índice de Eficiência Acadêmica)
+     * ISPL (Índice de Suficiência em Períodos Letivos)
+     * IECHP (Índice de Eficiência em Carga Horária por Período)
   
   [Voltar para o menu](#docs)
